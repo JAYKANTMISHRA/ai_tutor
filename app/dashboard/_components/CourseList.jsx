@@ -3,7 +3,7 @@
 import { useUser } from '@clerk/nextjs';
 import axios from 'axios';
 import React, { useEffect, useState } from 'react';
-import CourseCardItem from './CourseCardItem';
+import CourseCardItem from './CourseCarditem';
 import { Button } from '@/components/ui/button';
 import { RefreshCw } from 'lucide-react';
 
